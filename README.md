@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-almohada-vacia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Secretos de almohada vacía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-almohada-vacia/) |
+| **Get License** | [Secure Licensing Rights for Secretos de almohada vacía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-almohada-vacia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tu aroma se quedó en mi almohada vacía
+> Quiero tenerte de nuevo, hacerlo hasta de día
+> Tú sabes que el deseo quema, you drive me crazy
+> Esta noche te recojo, ponte guapa, my baby
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
