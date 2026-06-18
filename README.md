@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-almohada-vacia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Secretos de almohada vacía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-almohada-vacia/) |
+| **Get License** | [License this song: Secretos de almohada vacía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-almohada-vacia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e42d7abf6c19109b6aa63a001bf08e5c6530498c31bbcdfb97bfa22ccd6e94ca` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
